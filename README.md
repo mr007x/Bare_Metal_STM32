@@ -1,2 +1,2 @@
-# Bare_Metal_STM32
-Bare Metal STM32 research and experimentation
+# STM32
+STM32 research and experimentation
